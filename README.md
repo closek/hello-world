@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+Humans,
+
+This is a test repository.
